@@ -1,6 +1,6 @@
 {
   "name": "arbor-timetravel",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Provides time traveling functionality to Arbor stores",
   "author": "drborges <drborges.cic@gmail.com> (https://github.com/drborges)",
   "license": "MIT",
